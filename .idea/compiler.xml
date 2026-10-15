@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="reimbursement-claim-service" />
+        <module name="claims-ai-assessment-service" />
+        <module name="proposal-management-service" />
+        <module name="data-masking-service" />
+        <module name="razorpay-gateway-service" />
+        <module name="customer-onboarding-service" />
+        <module name="kyc-gateway-service" />
+        <module name="notification-service" />
+        <module name="irdai-regulatory-reporting-service" />
+        <module name="auth-service" />
+        <module name="payment-service" />
+        <module name="abdm-integration-service" />
+        <module name="claims-adjudication-workbench-service" />
+        <module name="tpa-integration-service" />
+        <module name="policy-lifecycle-service" />
+        <module name="tele-underwriting-service" />
+        <module name="pricing-service" />
+        <module name="nha-integration-service" />
+        <module name="claims-validation-service" />
+        <module name="underwriter-workbench-service" />
+        <module name="provider-network-service" />
+        <module name="core-policy-admin-service" />
+        <module name="loading-discount-service" />
+        <module name="gst-tax-compliance-service" />
+        <module name="underwriting-service" />
+        <module name="documents-service" />
+        <module name="cashless-authorization-service" />
+        <module name="product-configurator-service" />
+        <module name="renewals-portability-service" />
+        <module name="underwriting-rules-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="abdm-integration-service" options="-parameters" />
+      <module name="auth-service" options="-parameters" />
+      <module name="cashless-authorization-service" options="-parameters" />
+      <module name="claims-adjudication-workbench-service" options="-parameters" />
+      <module name="claims-ai-assessment-service" options="-parameters" />
+      <module name="claims-validation-service" options="-parameters" />
+      <module name="core-policy-admin-service" options="-parameters" />
+      <module name="customer-onboarding-service" options="-parameters" />
+      <module name="data-masking-service" options="-parameters" />
+      <module name="documents-service" options="-parameters" />
+      <module name="enterprise-indian-health-insurance-journey-manager" options="" />
+      <module name="gst-tax-compliance-service" options="-parameters" />
+      <module name="irdai-regulatory-reporting-service" options="-parameters" />
+      <module name="kyc-gateway-service" options="-parameters" />
+      <module name="loading-discount-service" options="-parameters" />
+      <module name="nha-integration-service" options="-parameters" />
+      <module name="notification-service" options="-parameters" />
+      <module name="payment-service" options="-parameters" />
+      <module name="policy-lifecycle-service" options="-parameters" />
+      <module name="pricing-service" options="-parameters" />
+      <module name="product-configurator-service" options="-parameters" />
+      <module name="proposal-management-service" options="-parameters" />
+      <module name="provider-network-service" options="-parameters" />
+      <module name="razorpay-gateway-service" options="-parameters" />
+      <module name="reimbursement-claim-service" options="-parameters" />
+      <module name="renewals-portability-service" options="-parameters" />
+      <module name="tele-underwriting-service" options="-parameters" />
+      <module name="tpa-integration-service" options="-parameters" />
+      <module name="underwriter-workbench-service" options="-parameters" />
+      <module name="underwriting-rules-service" options="-parameters" />
+      <module name="underwriting-service" options="-parameters" />
+    </option>
+  </component>
+</project>

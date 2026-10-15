@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: renewals-portability-service

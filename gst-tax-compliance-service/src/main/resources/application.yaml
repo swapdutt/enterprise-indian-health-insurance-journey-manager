@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: gst-tax-compliance-service

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/customer-onboarding-service/pom.xml" />
+        <option value="$PROJECT_DIR$/kyc-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/data-masking-service/pom.xml" />
+        <option value="$PROJECT_DIR$/proposal-management-service/pom.xml" />
+        <option value="$PROJECT_DIR$/core-policy-admin-service/pom.xml" />
+        <option value="$PROJECT_DIR$/policy-lifecycle-service/pom.xml" />
+        <option value="$PROJECT_DIR$/renewals-portability-service/pom.xml" />
+        <option value="$PROJECT_DIR$/product-configurator-service/pom.xml" />
+        <option value="$PROJECT_DIR$/underwriting-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tele-underwriting-service/pom.xml" />
+        <option value="$PROJECT_DIR$/loading-discount-service/pom.xml" />
+        <option value="$PROJECT_DIR$/underwriting-rules-service/pom.xml" />
+        <option value="$PROJECT_DIR$/underwriter-workbench-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pricing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/razorpay-gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/claims-validation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-network-service/pom.xml" />
+        <option value="$PROJECT_DIR$/tpa-integration-service/pom.xml" />
+        <option value="$PROJECT_DIR$/cashless-authorization-service/pom.xml" />
+        <option value="$PROJECT_DIR$/reimbursement-claim-service/pom.xml" />
+        <option value="$PROJECT_DIR$/claims-ai-assessment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/claims-adjudication-workbench-service/pom.xml" />
+        <option value="$PROJECT_DIR$/documents-service/pom.xml" />
+        <option value="$PROJECT_DIR$/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/abdm-integration-service/pom.xml" />
+        <option value="$PROJECT_DIR$/nha-integration-service/pom.xml" />
+        <option value="$PROJECT_DIR$/irdai-regulatory-reporting-service/pom.xml" />
+        <option value="$PROJECT_DIR$/gst-tax-compliance-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" default="true" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

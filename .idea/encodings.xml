@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/abdm-integration-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cashless-authorization-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/claims-adjudication-workbench-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/claims-ai-assessment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/claims-validation-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core-policy-admin-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customer-onboarding-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data-masking-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/documents-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gst-tax-compliance-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/irdai-regulatory-reporting-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kyc-gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loading-discount-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nha-integration-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/notification-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/policy-lifecycle-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pricing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-configurator-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proposal-management-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-network-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/razorpay-gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reimbursement-claim-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renewals-portability-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tele-underwriting-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tpa-integration-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/underwriter-workbench-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/underwriting-rules-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/underwriting-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

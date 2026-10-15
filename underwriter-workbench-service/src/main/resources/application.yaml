@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: underwriter-workbench-service

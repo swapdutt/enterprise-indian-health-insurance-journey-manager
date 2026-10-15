@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: irdai-regulatory-reporting-service
